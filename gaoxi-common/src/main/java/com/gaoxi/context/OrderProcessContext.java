@@ -6,7 +6,7 @@ import com.gaoxi.rsp.Result;
 import java.io.Serializable;
 
 /**
- * @author 大闲人柴毛毛   测试
+ * @author 大闲人柴毛毛   
  * @date 2017/11/6 下午2:39
  *
  * @description 订单受理上下文
